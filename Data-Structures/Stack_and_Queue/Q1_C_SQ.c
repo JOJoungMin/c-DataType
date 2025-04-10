@@ -117,6 +117,7 @@ int main()
 void createQueueFromLinkedList(LinkedList *ll, Queue *q)
 {
 	/* add your code here */
+	printf("테스트")
 }
 
 void removeOddValues(Queue *q)
