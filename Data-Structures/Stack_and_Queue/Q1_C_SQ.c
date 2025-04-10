@@ -292,6 +292,8 @@ int removeNode(LinkedList *ll, int index){
 
 
 dididididi
+testtesttest333
+
 
 int test_coflict(int idx){
 	
