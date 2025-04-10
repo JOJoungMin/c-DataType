@@ -117,11 +117,13 @@ int main()
 void createQueueFromLinkedList(LinkedList *ll, Queue *q)
 {
 	/* add your code here */
+	printf("테스트")
 }
 
 void removeOddValues(Queue *q)
 {
 	/* add your code here */
+	printf("두번째 수정")
 }
 
 //////////////////////////////////////////////////////////////////////////////////
@@ -288,5 +290,12 @@ int removeNode(LinkedList *ll, int index){
 	return -1;
 }
 
+
 dididididi
 testtesttest333
+
+
+int test_coflict(int idx){
+	
+}
+
