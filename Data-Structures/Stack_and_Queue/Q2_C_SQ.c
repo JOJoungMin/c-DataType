@@ -5,7 +5,7 @@ Lab Test: Section C - Stack and Queue Questions
 Purpose: Implementing the required functions for Question 2 */
 
 //////////////////////////////////////////////////////////////////////////////////
-
+//확인중
 #include <stdio.h>
 #include <stdlib.h>
 
