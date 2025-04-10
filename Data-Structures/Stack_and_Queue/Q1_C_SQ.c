@@ -123,6 +123,7 @@ void createQueueFromLinkedList(LinkedList *ll, Queue *q)
 void removeOddValues(Queue *q)
 {
 	/* add your code here */
+	printf("두번째 수정")
 }
 
 //////////////////////////////////////////////////////////////////////////////////
