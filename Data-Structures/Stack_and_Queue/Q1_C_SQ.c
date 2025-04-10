@@ -47,7 +47,7 @@ int removeNode(LinkedList *ll, int index);
 void removeAllItems(LinkedList *ll);
 
 //////////////////////////// main() //////////////////////////////////////////////
-
+//// 변경확dls
 int main()
 {
 	int c, i;
