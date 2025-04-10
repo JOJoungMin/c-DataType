@@ -287,3 +287,6 @@ int removeNode(LinkedList *ll, int index){
 
 	return -1;
 }
+int test_coflict(int idx){
+	
+}
